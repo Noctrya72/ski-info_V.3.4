@@ -127,35 +127,51 @@ const stations = {
         },
 
         "Val d'Isère": {
-            lat: 45.448,
-            lon: 6.980,
+            lat: 45.445739,
+            lon: 6.977606,
             url: "https://www.valdisere.com",
             webcam: "https://www.valdisere.com/webcams",
             plan: "https://www.valdisere.com/app/uploads/valdisere/2025/10/TI-x-VI-PlanDesPistes-RECTO-20251017.pdf"
         },
 
         "La Clusaz": {
-            lat: 45.905,
-            lon: 6.424,
+            lat: 45.903722,
+            lon: 6.423481,
             url: "https://www.laclusaz.com",
             webcam: "https://www.laclusaz.com/webcams",
             plan: "https://www.laclusaz.com/ski/plan-des-pistes/"
         },
 
         "Alpe du Grand Serre": {
-            lat: 45.124,
-            lon: 5.514,
+            lat: 45.023517,
+            lon: 5.862517,
             url: "https://www.matheysine-tourisme.com/fr/alpedugrandserre/",
             webcam: "https://www.matheysine-tourisme.com/fr/alpedugrandserre/webcams/",
             plan: "https://media.matheysine-tourisme.com/filer_public/7d/9b/7d9bc29b-9406-4330-b06f-970ada3dd32e/web_skirando_alpegrandserre.pdf",
         },
 
         "Chamrousse": {    
-            lat: 45.036,
-            lon: 5.523,
+            lat: 45.109653,
+            lon: 5.875792,
             url: "https://www.chamrousse.com/hiver",
             webcam: "https://www.chamrousse.com/webcams.html",
             plan: "https://www.chamrousse.com/medias/images/info_pages/plan-domaine-alpin-ski-et-luge-park-chamrousse-2025-2026-basse-definition-bd-3365.pdf",
+        },
+
+        "Saint Sorlin d'Arves (Les Sybelles)": {
+            lat: 45.218261,
+            lon: 6.230328,
+            url: "https://www.saintsorlindarves.com/",
+            webcam: "https://www.saintsorlindarves.com/webcams",
+            plan: "https://www.sja73.com/medias/images/info_pages/plan-des-pistes-les-sybelles-2025-2026-969.pdf",
+        },
+
+        "Les Saisies (espace diamant)": {
+            lat: 45.758800,
+            lon: 6.535506,
+            url: "https://www.lessaisies.com/",
+            webcam: "https://www.lessaisies.com/webcams/",
+            plan: "https://www.lessaisies.com/app/uploads/les-saisies/2024/01/espace-diamant-hiver-2023-2024_HD.pdf",
         },
     },
 
