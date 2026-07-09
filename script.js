@@ -248,7 +248,6 @@ const stations = {
             webcam: "https://peyragudes.com/webcams-live/",
             plan: "https://peyragudes.com/wp-content/uploads/2024/04/Plan-des-pistes-compresse-peyragudes-ALPIN-2023-2024_0.pdf",
         },
-
     },
 };
 
