@@ -225,11 +225,11 @@ const stations = {
     },
 
     Pyrénées: {
-        "Grand Tourmalet": {
+        "Grand Tourmalet (Barèges-La Mongie)": {
             lat: 42.909,
             lon: 0.142,
-            url: "https://www.n-py.com/fr/grand-tourmalet",
-            webcam: "https://www.n-py.com/fr/grand-tourmalet/webcams",
+            url: "https://www.tourmaletpicdumidi.com/decouvrir/station-de-ski-la-mongie/",
+            webcam: "https://www.tourmaletpicdumidi.com/webcam-tourmalet-pic-du-midi/",
             plan: "https://www.n-py.com/fr/grand-tourmalet"
         },
 
@@ -238,7 +238,7 @@ const stations = {
             lon: 1.733,
             url: "https://www.grandvalira.com",
             webcam: "https://www.grandvalira.com/fr/webcams",
-            plan: "https://www.grandvalira.com/fr/plan-des-pistes"
+            plan: "https://www.valleesdegavarnie.com/wp-content/uploads/2023/12/plan-pistes-grand-tourmalet.pdf"
         },
 
         "Peyragudes": {
@@ -247,6 +247,55 @@ const stations = {
             url: "https://peyragudes.com/",
             webcam: "https://peyragudes.com/webcams-live/",
             plan: "https://peyragudes.com/wp-content/uploads/2024/04/Plan-des-pistes-compresse-peyragudes-ALPIN-2023-2024_0.pdf",
+        },
+
+        "La Mongie (Barèges-La Mongie)": {
+            lat: 42.909089,
+            lon: 0.178592,
+            url: "https://www.tourmaletpicdumidi.com/decouvrir/station-de-ski-la-mongie/",
+            webcam: "https://www.tourmaletpicdumidi.com/webcam-tourmalet-pic-du-midi/",
+            plan: "https://www.valleesdegavarnie.com/wp-content/uploads/2023/12/plan-pistes-grand-tourmalet.pdf",
+        },
+
+        "Font-Romeu": {
+            lat: 42.520483,
+            lon: 2.033042,
+            url: "https://font-romeu.fr/",
+            webcam: "",
+            plan: "https://pyrenees.media.tourinsoft.eu/upload/Font-Romeu-Pyrenees-2000-plan-pistes.pdf",
+        },
+        "Cauterets": {
+            lat: 42.884583,
+            lon: -0.060642,
+            url: "https://www.cauterets.com/faire-du-ski/",
+            webcam: "https://www.cauterets.com/live/webcams/",
+            plan: "https://www.valleesdegavarnie.com/wp-content/uploads/2023/12/plan-des-pistes-cauterets-pont-espagne.pdf",
+        },
+
+        "Les Angles": {
+            lat: 42.563733,
+            lon: 2.065297,
+            url: "https://lesangles.com/",
+            webcam: "https://lesangles.com/webcam/",
+            plan: "https://lesangles.com/wp-content/uploads/2021/03/PlanPistes_525x300_202324_BAT.pdf",
+        },
+
+        "Piau Engaly": {
+            lat: 42.783003,
+            lon: 0.158350,
+            url: "https://piau-engaly.com/",
+            webcam: "https://piau-engaly.com/webcams-live/",
+            plan: "https://piau-engaly.com/wp-content/uploads/2024/11/Plan-des-pistes-seul-2024-25.pdf",
+        },
+    },
+
+    Jura: {
+        "A découvrir bientôt !": {
+            lat: _,
+            lon: _,
+            url: "",
+            webcam: "",
+            plan: "",
         },
     },
 };
